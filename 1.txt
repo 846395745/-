@@ -1,11 +1,14 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 def china():
 	print('big girl')
 =======
 num=12345678
 
 
+=======
+>>>>>>> 4ccc582c6971be071fc593c96a18990ab79ecbb0
 print(123)
 
 num1=123456
@@ -18,5 +21,8 @@ num3 = 232323
 
 
 
+<<<<<<< HEAD
 
 >>>>>>> fc2e15ad9878179032f2fbe3e969808bef835166
+=======
+>>>>>>> 4ccc582c6971be071fc593c96a18990ab79ecbb0
