@@ -1,4 +1,3 @@
-num=123456
 
 def china():
 	print('big girl')
